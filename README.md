@@ -146,4 +146,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 We highly appreciate any feedback or suggestions for improving the game. If you encounter any issues or want to propose features, feel free to reach out.
 
-✉️ **Email**: yourname@example.com
+✉️ **Email**: Arthur12137@gmai.com
