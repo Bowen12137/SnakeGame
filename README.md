@@ -100,7 +100,7 @@ SnakeGame/
 
 Clone the repository from GitHub using the following command:
 ```bash
-git clone https://github.com/yourusername/SnakeGame.git
+git clone https://github.com/bowen12137/SnakeGame.git
 ```
 
 ### Step 2: Compile the Java Code
